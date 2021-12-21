@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @highdiv
 - 👀 I’m interested in JS / Jquery, HTML, CSS
-- 🌱 I’m currently Vue
+- 🌱 I’m currently learning Vue and Tailwindcss
 - 📫 How to reach me highdiv@gmail.com
 
 <!---
